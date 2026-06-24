@@ -67,9 +67,11 @@ library(tmap)
 
 ## Data Sources
 
-- Corine Landcover 2018 — European Environment Agency
-- Resistance values — Stringer et al. (2018), *The Feasibility of Reintroducing Pine Martens to the Forest of Dean and Lower Wye Valley*, Gloucestershire Wildlife Trust
-- National park boundaries — Scottish Natural Heritage / NatureScot
+- Corine Landcover 2018 — European Environment Agency (publicly available at [land.copernicus.eu](https://land.copernicus.eu))
+- Resistance values — Stringer et al. (2018), *The Feasibility of Reintroducing Pine Martens to the Forest of Dean and Lower Wye Valley*, Gloucestershire Wildlife Trust (values documented in the project report)
+- National park boundaries — Scottish Natural Heritage / NatureScot (publicly available at [spatialdata.gov.scot](https://www.spatialdata.gov.scot))
+
+> **Note:** Input data files are not included in this repository. The Corine Landcover and national park boundary datasets are publicly accessible at the links above. The full methodology and resistance parameterisation are documented in `corridor_analysis_report.pdf`.
 
 ---
 
